@@ -1,3 +1,12 @@
+---
+layout: post
+title: "The Startup Checklist"
+date: 2022-08-18 14:32
+category: Startup
+author: Greg Saverchenko
+tags: [Business]
+summary: Book summary of The Startup Checklist.
+---
 layout: post
 title: "The Startup Checklist"
 date: 2022-08-18 12:00:00 -0000
