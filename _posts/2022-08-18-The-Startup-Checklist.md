@@ -1,3 +1,7 @@
+layout: post
+title: "The Startup Checklist"
+date: 2022-08-18 14:00:00 -0000
+categories: Business
 # Part I Prepare to Launch
 
 ## Chapter 1: Translate your idea into a compelling business model
