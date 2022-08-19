@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Startup Checklist"
+title:  "The Startup Checklist Part I"
 date:   2022-08-18 15:40:33 -0700
 categories: startup update
 ---
