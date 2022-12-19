@@ -19,10 +19,10 @@
 # in the templates via {{ site.myvariable }}.
 
 title: The Business Blog
-email: gavo@mailinator.com
+email: gsavernko@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome! I'm new to blogging and want to expand my writing abilities. I'll be
-  writing book summaries and posting anything related to my business ventures.
+  Welcome! I'll be writing book summaries and posting anything related
+  to my business ventures.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gsaverchenko
